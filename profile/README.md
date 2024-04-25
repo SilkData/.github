@@ -1,7 +1,7 @@
 ## Silk Data public profile
 
 <p align="center">
-  <img src="background.jpg" alt="background image">
+  <img src="https://github.com/SilkData/.github/blob/main/images/background.jpg" alt="background image">
 </p>
 
 Silk Data is a technology provider and custom software development company with over 25 years in the market and more than 7 years of ML/AI experience.
